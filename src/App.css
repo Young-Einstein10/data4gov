@@ -1,0 +1,13 @@
+.app {
+  height: 100vh;
+}
+
+.app-item {
+  display: grid;
+  grid-template-columns: 1.3fr 2fr 1.3fr;
+  height: 100vh;
+}
+
+section.navContentHidden {
+  display: none;
+}
