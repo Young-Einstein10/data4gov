@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/data4gov/static/css/main.925338e5.chunk.css",
+    "main.js": "/data4gov/static/js/main.4007a387.chunk.js",
+    "main.js.map": "/data4gov/static/js/main.4007a387.chunk.js.map",
+    "runtime-main.js": "/data4gov/static/js/runtime-main.6fb2ba23.js",
+    "runtime-main.js.map": "/data4gov/static/js/runtime-main.6fb2ba23.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/data4gov/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.da525b63.chunk.js": "/data4gov/static/js/2.da525b63.chunk.js",
+    "static/js/2.da525b63.chunk.js.map": "/data4gov/static/js/2.da525b63.chunk.js.map",
+    "index.html": "/data4gov/index.html",
+    "precache-manifest.cf6f01492a9e1694539bdc4cce9ab7d8.js": "/data4gov/precache-manifest.cf6f01492a9e1694539bdc4cce9ab7d8.js",
+    "service-worker.js": "/data4gov/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/data4gov/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.925338e5.chunk.css.map": "/data4gov/static/css/main.925338e5.chunk.css.map",
+    "static/js/2.da525b63.chunk.js.LICENSE.txt": "/data4gov/static/js/2.da525b63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fb2ba23.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.da525b63.chunk.js",
+    "static/css/main.925338e5.chunk.css",
+    "static/js/main.4007a387.chunk.js"
+  ]
+}
